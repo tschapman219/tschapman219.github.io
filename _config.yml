@@ -1,5 +1,3 @@
-title: Work in Progress
-description: Email me at tschapman219@gmail.com
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
+title: ""
+description: ""
+theme: minima
