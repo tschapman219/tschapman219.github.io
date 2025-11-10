@@ -1,3 +1,5 @@
-title: My Site
-description: My cool GitHub Pages site
-theme: jekyll-theme-minima
+title: Thomas Chapman
+description: Official podcast site
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
