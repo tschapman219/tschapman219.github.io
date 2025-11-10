@@ -1,3 +1,8 @@
+---
+layout: home
+title: Home
+---
+
 <!DOCTYPE html>
 <html>
   <head>
